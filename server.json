@@ -1,0 +1,11 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-09-29/server.schema.json",
+  "name": "io.github.ContentWriterco/szkoly-mcp",
+  "description": "Polish schools and kindergartens with per-school eighth-grade exam and matura results",
+  "repository": { "url": "https://github.com/ContentWriterco/szkoly-mcp", "source": "github" },
+  "version": "0.1.0",
+  "packages": [
+    { "registryType": "npm", "identifier": "szkoly-mcp", "version": "0.1.0", "transport": { "type": "stdio" } }
+  ],
+  "remotes": [{ "type": "streamable-http", "url": "https://szkoly.compabase.com/mcp" }]
+}
