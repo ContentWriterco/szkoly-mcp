@@ -1,6 +1,6 @@
 {
   "name": "szkoly-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "MCP server: schools in Poland for AI agents – official register of schools and kindergartens (SIO) with per-school eighth-grade exam and matura results (CKE) vs county and national averages. No API key.",
   "type": "module",
   "bin": {
